@@ -1,0 +1,39 @@
+#header-nav{
+	 border-radius: 0;
+  	 border: 0;
+}
+
+#main{
+	background-color: gray;
+	text-align: justify;
+	color: white;
+}
+
+#brand-css{
+	color: white;
+	font-weight: bold;
+}
+
+#ourmenu{
+
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+h5{
+	text-align: center;
+}
+
+#menu-list{
+	color: black;
+	margin-top: 10px;
+	
+}
+#menu-list a{
+	color: white;
+	
+}
+
+#menu-list a:hover{
+	background-color: green;
+
+}
